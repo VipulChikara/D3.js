@@ -1,0 +1,35 @@
+body {
+    background-color: #F1F3F3    
+  }
+  .axis {
+      font: 10px sans-serif;
+  }
+  
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: rgb(0, 0, 0);
+    stroke-width: 2px;
+    shape-rendering: crispEdges;
+  }
+  .area {
+  fill: lightsteelblue;
+}
+  
+  .line {
+    fill: none;
+    stroke: rgba(7, 123, 218, 0.685);
+    stroke-width: 5px;
+  }
+  
+  .overlay {
+    fill: none;
+    pointer-events: all;
+  }
+  
+  .focus circle {
+    fill: #F1F3F3;
+    stroke:rgba(7, 123, 218, 0.685);
+    stroke-width: 5px;
+  }
+  

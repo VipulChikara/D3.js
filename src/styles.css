@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+    text-align: center;
+}
+svg{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
